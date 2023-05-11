@@ -1,5 +1,5 @@
-import Header from './Header';
-import TodosLogic from './TodoLogic';
+import Header from './Header.jsx';
+import TodosLogic from './TodoLogic.jsx';
 
 const TodoApp = () => {
   return (

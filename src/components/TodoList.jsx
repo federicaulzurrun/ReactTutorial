@@ -1,4 +1,4 @@
-import TodoItem from './TodoItem';
+import TodoItem from './TodoItem.jsx';
 
 const TodosList = ({ todosProps, handleChange, delTodo }) => {
   return (
