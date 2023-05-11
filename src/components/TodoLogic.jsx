@@ -8,7 +8,7 @@ const TodosLogic = () => {
     {
       id: uuidv4(),
       title: 'Setup development environment',
-      completed: true,
+      completed: false,
     },
     {
       id: uuidv4(),
